@@ -1,0 +1,10 @@
+C:\Users\eodbs\source\repos\NetProject\5Client\bin\Debug\5Client.exe.config
+C:\Users\eodbs\source\repos\NetProject\5Client\bin\Debug\5Client.exe
+C:\Users\eodbs\source\repos\NetProject\5Client\bin\Debug\5Client.pdb
+C:\Users\eodbs\source\repos\NetProject\5Client\obj\Debug\5Client.csprojAssemblyReference.cache
+C:\Users\eodbs\source\repos\NetProject\5Client\obj\Debug\_5Client.Form1.resources
+C:\Users\eodbs\source\repos\NetProject\5Client\obj\Debug\_5Client.Properties.Resources.resources
+C:\Users\eodbs\source\repos\NetProject\5Client\obj\Debug\5Client.csproj.GenerateResource.cache
+C:\Users\eodbs\source\repos\NetProject\5Client\obj\Debug\5Client.csproj.CoreCompileInputs.cache
+C:\Users\eodbs\source\repos\NetProject\5Client\obj\Debug\5Client.exe
+C:\Users\eodbs\source\repos\NetProject\5Client\obj\Debug\5Client.pdb
